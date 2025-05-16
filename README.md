@@ -57,7 +57,7 @@ Throughout the 100 days, I'll work on:
 
 | Day | Challenge | Summary |
 |-----|-----------|---------|
-| 001 | [Day 1](./Day001/README.md) | Brand Name Generator |
+| 001 | [Day 1](./Day001/README.md) | Band Name Generator |
 | 002 | [Day 2](./Day002/README.md) | Tip Bill Calculator |
 | 003 | [Day 3](./Day003/README.md) | Treasure Island |
 | 004 | [Day 4](./Day004/README.md) | Rock Paper Scissors |
