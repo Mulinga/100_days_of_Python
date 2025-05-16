@@ -1,32 +1,28 @@
-
----
-
-### 📁 `Day003/README.md`
-
-```markdown
 # 🏝️ Day 3 – Treasure Island Game
 
-Welcome to Day 3 of the **100 Days of Python** challenge!
+Welcome to **Day 3** of the **100 Days of Python** challenge!
 
 ## 🎯 Project Overview
 
-This is an interactive **text-based adventure game** where the player makes choices to navigate through an island in search of treasure.
+Today’s challenge is an interactive **text-based adventure game** called **Treasure Island**.
 
-- Make the right decisions… and you'll find the treasure! 💰
-- One wrong turn, and you might fall into a pit or face the wrath of a lake monster 🐍
+The player navigates through a series of choices to find a hidden treasure. Each choice leads to a new scenario — choose wisely to avoid traps, monsters, and dead ends!
+
+**Goal:** Find the treasure by making the right decisions.
 
 ## 🧠 Concepts Practiced
 
-- Multi-branch `if`, `elif`, `else` statements
-- Logical conditions
-- Nested decision trees
-- Game flow using terminal input/output
+- `if`, `elif`, `else` conditional statements
+- Logical branching and game paths
+- String input and comparison
+- Multi-step decision trees
+- Building simple interactive CLI games
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 - Python 3
 
-## ▶️ How to Play
+## ▶️ How to Run
 
 ```bash
 python3 main.py

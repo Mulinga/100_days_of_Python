@@ -1,35 +1,31 @@
-
----
-
-### 📁 `Day004/README.md`
-
-```markdown
 # ✊✋✌️ Day 4 – Rock Paper Scissors Game
 
-Welcome to Day 4 of the **100 Days of Python** challenge!
+Welcome to **Day 4** of the **100 Days of Python** challenge!
 
 ## 🎯 Project Overview
 
-Play a classic game of **Rock, Paper, Scissors** against the computer. The program:
+Today's project is a simple but fun **Rock, Paper, Scissors** game where you play against the computer.
 
-- Takes user input (rock/paper/scissors)
-- Generates a random choice for the computer
-- Compares choices and declares a winner
+- You choose **rock**, **paper**, or **scissors**
+- The computer randomly selects its move
+- The program compares choices and announces the winner
+
+It’s a great exercise in game logic, randomization, and user input.
 
 ## 🧠 Concepts Practiced
 
-- Using `random.randint()`
-- Working with Python lists
-- Conditional statements (`if`, `elif`, `else`)
-- Game logic
-- Indexing and comparison
+- Importing and using the `random` module
+- List indexing
+- Conditional logic with `if`, `elif`, `else`
+- Comparing player and computer choices
+- Handling invalid input
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 - Python 3
-- `random` module
+- `random.randint()`
 
-## ▶️ How to Play
+## ▶️ How to Run
 
 ```bash
 python3 main.py

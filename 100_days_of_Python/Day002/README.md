@@ -1,9 +1,3 @@
-
----
-
-### 📁 `Day002/README.md`
-
-```markdown
 # 💸 Day 2 – Tip Bill Calculator
 
 Welcome to Day 2 of the **100 Days of Python** challenge!
