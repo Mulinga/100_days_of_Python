@@ -15,7 +15,7 @@ To build consistency, deepen my Python expertise, and apply concepts in data str
 
 ## 📅 Challenge Timeline
 
-📌 **Start Date:** [Insert Date]  
+📌 **Start Date:** [17th May, 2025]  
 🧭 **End Date:** 100 Days Later  
 🛠️ **Daily Commitment:** 1+ hour/day  
 
@@ -62,6 +62,8 @@ Throughout the 100 days, I'll work on:
 | 003 | [Day 3](./100_days_of_Python/Day003/README.md) | Treasure Island     |
 | 004 | [Day 4](./100_days_of_Python/Day004/README.md) | Rock Paper Scissors |
 | 005 | [Day 5](./100_days_of_Python/Day005/README.md) | Password Generator  |
+| 006 | [Day 6](./100_days_of_Python/Day006/README.md) | Escape the Maze     |
+| 007 | [Day 7](./100_days_of_Python/Day006/README.md) | Hangman     |
 | ... | ...       | ...     |
 | 100 | 🏁 Final Day | Capstone Project |
 
@@ -74,16 +76,17 @@ Throughout the 100 days, I'll work on:
 Follow my journey or share your own:
 
 - 📬 GitHub: [@Mulinga](https://github.com/Mulinga)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle) *(optional)*
-- ✉️ Email: your.email@example.com
+- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle) 
+- ✉️ Email: mulingacharles@gmail.com
+- [![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/+254703560774)
 
 ---
 
 ## ⭐ How to Support
 
 If you find this useful:
-- 🌟 Star the repo
-- 🍴 Fork it
+- 🌟 Please give me a 5 star rating
+- 🍴 Fork the repo and do better in the challenges
 - 🐛 Report bugs or suggest improvements
 
 Happy coding! 🚀
