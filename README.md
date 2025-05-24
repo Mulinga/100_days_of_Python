@@ -55,15 +55,15 @@ Throughout the 100 days, I'll work on:
 
 ## 📝 Progress Log
 
-| Day | Challenge | Summary |
-|-----|-----------|---------|
-| 001 | [Day 1](./100_days_of_Python/Day001/README.md) | Band Name Generator |
-| 002 | [Day 2](./100_days_of_Python/Day002/README.md) | Tip Bill Calculator |
-| 003 | [Day 3](./100_days_of_Python/Day003/README.md) | Treasure Island     |
-| 004 | [Day 4](./100_days_of_Python/Day004/README.md) | Rock Paper Scissors |
-| 005 | [Day 5](./100_days_of_Python/Day005/README.md) | Password Generator  |
-| 006 | [Day 6](./100_days_of_Python/Day006/README.md) | Escape the Maze     |
-| 007 | [Day 7](./100_days_of_Python/Day006/README.md) | Hangman     |
+| Day         | Challenge                              | Summary                |
+|-----|-------|----------------------------------------|------------------------|
+| 001 | [Day 1](./100_days_of_Python/Day001/README.md) | Band Name Generator    |
+| 002 | [Day 2](./100_days_of_Python/Day002/README.md) | Tip Bill Calculator    |
+| 003 | [Day 3](./100_days_of_Python/Day003/README.md) | Treasure Island        |
+| 004 | [Day 4](./100_days_of_Python/Day004/README.md) | Rock Paper Scissors    |
+| 005 | [Day 5](./100_days_of_Python/Day005/README.md) | Password Generator     |
+| 006 | [Day 6](./100_days_of_Python/Day006/README.md) | Escape the Maze game   |
+| 007 | [Day 7](./100_days_of_Python/Day006/README.md) | Hangman game           |
 | ... | ...       | ...     |
 | 100 | 🏁 Final Day | Capstone Project |
 
@@ -76,9 +76,16 @@ Throughout the 100 days, I'll work on:
 Follow my journey or share your own:
 
 - 📬 GitHub: [@Mulinga](https://github.com/Mulinga)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle) 
+- 🐦 X: [@YourHandle](https://x.com/ThatITGuy254) 
 - ✉️ Email: mulingacharles@gmail.com
-- [![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/+254703560774)
+- <p align="left">
+  <a href="https://wa.me/254703560774" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <br/>
+  <strong>Let's chat on WhatsApp!</strong>
+</p>
+
 
 ---
 
