@@ -55,8 +55,8 @@ Throughout the 100 days, I'll work on:
 
 ## 📝 Progress Log
 
-| Day | Challenge| Summary|
-|-----|-------|----------------------------------------|------------------------|
+| Day | Challenge                                      | Summary                |
+|-----|------------------------------------------------|------------------------|
 | 001 | [Day 1](./100_days_of_Python/Day001/README.md) | Band Name Generator    |
 | 002 | [Day 2](./100_days_of_Python/Day002/README.md) | Tip Bill Calculator    |
 | 003 | [Day 3](./100_days_of_Python/Day003/README.md) | Treasure Island        |
@@ -64,8 +64,8 @@ Throughout the 100 days, I'll work on:
 | 005 | [Day 5](./100_days_of_Python/Day005/README.md) | Password Generator     |
 | 006 | [Day 6](./100_days_of_Python/Day006/README.md) | Escape the Maze game   |
 | 007 | [Day 7](./100_days_of_Python/Day006/README.md) | Hangman game           |
-| ... | ...       | ...     |
-| 100 | 🏁 Final Day | Capstone Project |
+| ... | ...                                            | ...     |
+| 100 | 🏁 Final Day                                   | Capstone Project       |
 
 > 📌 This table will be updated daily.
 
