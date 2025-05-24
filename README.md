@@ -55,7 +55,7 @@ Throughout the 100 days, I'll work on:
 
 ## 📝 Progress Log
 
-| Day         | Challenge                              | Summary                |
+| Day | Challenge| Summary|
 |-----|-------|----------------------------------------|------------------------|
 | 001 | [Day 1](./100_days_of_Python/Day001/README.md) | Band Name Generator    |
 | 002 | [Day 2](./100_days_of_Python/Day002/README.md) | Tip Bill Calculator    |
